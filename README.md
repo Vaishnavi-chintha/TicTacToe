@@ -1,4 +1,10 @@
 # Tic-Tac-Toe
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Eclipse](https://img.shields.io/badge/Eclipse-IDE-red)
+![Q-Learning](https://img.shields.io/badge/Q--Learning-RL-blueviolet)
+![Value Iteration](https://img.shields.io/badge/Value%20Iteration-RL-green)
+![Policy Iteration](https://img.shields.io/badge/Policy%20Iteration-RL-yellow)
+
 
 This project implements intelligent agents that learn to play a 3x3 Tic-Tac-Toe game using Markov Decision Processes (MDPs) and Reinforcement Learning techniques.
 
